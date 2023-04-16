@@ -1,1 +1,1 @@
-# Java-Design-Pattern-Example
+# Java Design Pattern Example
